@@ -1,3 +1,3 @@
 NLW 8 Return - Mission Impulse
 
-Feedback Widget - widget para poder adicionar um feedback um site. (pode ser utilizado em diversos sites)
+Feedback Widget - widget que adiciona um botão de feedback em um site.
